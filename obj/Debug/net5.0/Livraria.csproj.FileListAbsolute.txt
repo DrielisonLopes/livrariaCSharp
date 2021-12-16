@@ -414,7 +414,6 @@ C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\scopedcss\bundle\Li
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.TagHelpers.input.cache
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.TagHelpers.output.cache
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.RazorCoreGenerate.cache
-C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -429,6 +428,17 @@ C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.dll
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\ref\Livraria.dll
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.pdb
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Livraria.genruntimeconfig.cache
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Autor\Create.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Autor\Delete.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Autor\Details.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Autor\Edit.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Autor\Index.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Editora\Create.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Editora\Delete.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Editora\Details.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Editora\Edit.cshtml.g.cs
+C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Editora\Index.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Livro\Create.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Livro\Delete.cshtml.g.cs
 C:\Users\Driel\OneDrive\Documentos\Livraria\obj\Debug\net5.0\Razor\Views\Livro\Details.cshtml.g.cs

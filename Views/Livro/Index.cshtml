@@ -1,6 +1,7 @@
 @model IEnumerable<Livraria.Models.Livro>
 
 @{
+    ViewData["Title"] = "Index Livro";
 }
 
 <!DOCTYPE html>
@@ -20,6 +21,18 @@
             <th>
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Isbn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AutorId_autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EditoraId_editora)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -28,6 +41,18 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Isbn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.preco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AutorId_autor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EditoraId_editora)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

@@ -15624,13 +15624,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Autor\\Delete.cshtml",
+      "TargetPath": "Views\\Autor\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Livro\\Details.cshtml",
       "TargetPath": "Views\\Livro\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Editora\\Edit.cshtml",
+      "TargetPath": "Views\\Editora\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Editora\\Delete.cshtml",
+      "TargetPath": "Views\\Editora\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15641,6 +15656,26 @@
     {
       "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Livro\\Index.cshtml",
       "TargetPath": "Views\\Livro\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Autor\\Details.cshtml",
+      "TargetPath": "Views\\Autor\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Autor\\Create.cshtml",
+      "TargetPath": "Views\\Autor\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Editora\\Index.cshtml",
+      "TargetPath": "Views\\Editora\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Editora\\Details.cshtml",
+      "TargetPath": "Views\\Editora\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15664,6 +15699,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Autor\\Index.cshtml",
+      "TargetPath": "Views\\Autor\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15671,6 +15711,16 @@
     {
       "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Autor\\Edit.cshtml",
+      "TargetPath": "Views\\Autor\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Driel\\OneDrive\\Documentos\\Livraria\\Views\\Editora\\Create.cshtml",
+      "TargetPath": "Views\\Editora\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

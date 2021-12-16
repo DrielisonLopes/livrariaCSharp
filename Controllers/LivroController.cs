@@ -46,6 +46,8 @@ namespace Livraria.Controllers
         // GET: Livro/Create
         public IActionResult Create()
         {
+            ViewData["AutorId_autor"] = new SelectList(_context.Autores, "Id_autor", "Nome");
+            ViewData["EditoraId_editora"] = new SelectList(_context.Editoras, "Id_editora", "Nome");
             return View();
         }
 
@@ -54,7 +56,7 @@ namespace Livraria.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome")] Livro livro)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Isbn,preco,AutorId_autor,EditoraId_editora")] Livro livro)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +88,7 @@ namespace Livraria.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome")] Livro livro)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Isbn,preco,AutorId_autor,EditoraId_editora")] Livro livro)
         {
             if (id != livro.Id)
             {

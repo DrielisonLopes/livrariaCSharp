@@ -1,6 +1,7 @@
 @model Livraria.Models.Livro
 
 @{
+    ViewData["Title"] = "Delete Livro";
 }
 
 <!DOCTYPE html>
@@ -22,6 +23,30 @@
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Isbn)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.preco)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.preco)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AutorId_autor)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AutorId_autor)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EditoraId_editora)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EditoraId_editora)
         </dd>
     </dl>
     
